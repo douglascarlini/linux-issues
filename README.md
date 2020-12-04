@@ -1,7 +1,7 @@
 # Linux Issues FIX
 Commands and scripts to fix some issues on Linux
 
-### Problems with VMs (on Windows)
+### Problems with Docker on Linux VM on Windows
 
 - Shut down the Virtual Machine.
 - Press Windows logo key + X, then hit A to run Command Prompt(powershell) as administrator.
